@@ -2,5 +2,7 @@ datasets==2.13.0
 iprogress==0.4
 ipykernel==6.23.1
 ipython==8.14.0
+langchain==0.0.202
 pandas==2.0.2
+python-dotenv==1.0.0
 tqdm==4.65.0
